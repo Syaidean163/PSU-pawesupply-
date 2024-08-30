@@ -1,0 +1,33 @@
+# PSU (Power Supply Unit)
+PSU adalah komponen penting dalam sebuah komputer yang berfungsi untuk mengubah arus listrik AC dari stopkontak menjadi arus DC yang dibutuhkan oleh komponen-komponen komputer lainnya seperti motherboard, CPU, GPU, dan perangkat periferal.
+
+Sejarah dan Penjelasan Power Supply Unit (PSU)
+### Pendahuluan
+Power Supply Unit (PSU) adalah komponen vital dalam sebuah komputer yang bertugas mengubah arus listrik AC dari stopkontak menjadi arus DC yang dibutuhkan oleh komponen-komponen internal komputer.
+
+### Sejarah Singkat PSU
+*Era Dini Komputer: Pada generasi awal komputer, PSU memiliki desain yang sangat sederhana dan seringkali disesuaikan dengan kebutuhan spesifik mesin.
+*Standarisasi ATX: Pada tahun 1995, ATX menjadi standar de facto untuk PSU pada komputer desktop. Standar ini memperkenalkan faktor bentuk yang lebih kecil, konektor yang lebih efisien, dan fitur manajemen daya yang lebih baik.
+*Perkembangan Teknologi: Seiring dengan perkembangan teknologi komputer, PSU juga terus mengalami peningkatan. Fitur-fitur seperti modularitas, efisiensi tinggi, dan dukungan untuk komponen berdaya tinggi menjadi semakin umum.
+
+## Fungsi Utama PSU
+*Mengubah arus AC menjadi DC: PSU mengubah arus bolak-balik (AC) dari sumber listrik menjadi arus searah (DC) dengan tegangan yang stabil.
+*Memberikan daya: PSU menyalurkan daya listrik ke berbagai komponen komputer sesuai dengan kebutuhan masing-masing.
+*Melindungi komponen: PSU dilengkapi dengan fitur perlindungan seperti overcurrent, overvoltage, dan short circuit untuk melindungi komponen komputer dari kerusakan.
+
+## Komponen Utama PSU
+*Transformer: Mengubah tegangan AC menjadi tegangan AC dengan level yang lebih rendah.
+*Rectifier: Mengubah arus AC menjadi arus DC.
+*Filter: Menghilangkan riak-riak pada arus DC.
+*Regulator: Menjaga tegangan output agar tetap stabil.
+
+## Jenis-jenis PSU
+*ATX: Standar PSU yang paling umum digunakan pada komputer desktop.
+*SFX: PSU dengan ukuran yang lebih kecil, sering digunakan pada sistem komputer yang kompak.
+*FLEX ATX: Varian dari PSU ATX dengan kabel yang dapat dilepas.
+
+## Faktor yang Perlu Diperhatikan Saat Memilih PSU
+*Watt: Daya output total PSU.
+*Efisiensi: Semakin tinggi efisiensi, semakin sedikit daya yang terbuang sebagai panas.
+*Modular: PSU dengan kabel yang dapat dilepas, memudahkan manajemen kabel.
+*Sertifikasi: Sertifikasi seperti 80 Plus menjamin efisiensi PSU
